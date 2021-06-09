@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:59 Unable to click on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Login'
+[32mINFO    [0m BasePage:BasePage.py:67 Send text on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Et4'
+[32mINFO    [0m BasePage:BasePage.py:67 Send text on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Et5'
+[32mINFO    [0m BasePage:BasePage.py:79 Element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Tv8' is displayed

@@ -1,0 +1,4 @@
+[32mINFO    [0m BasePage:BasePage.py:67 Send text on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Et2'
+[32mINFO    [0m BasePage:BasePage.py:67 Send text on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Et3'
+[32mINFO    [0m BasePage:BasePage.py:67 Send text on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Et6'
+[32mINFO    [0m BasePage:BasePage.py:69 Unable to send text on element with LocatorType: 'id' and locatorValue: 'self._enterMobileNumber'

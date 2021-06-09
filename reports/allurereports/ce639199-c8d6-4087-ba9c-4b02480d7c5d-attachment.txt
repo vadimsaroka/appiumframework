@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:59 Unable to click on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Login'
+[32mINFO    [0m BasePage:BasePage.py:69 Unable to send text on element with LocatorType: 'id' and locatorValue: 'com.code2lead.kwad:id/Et4'
